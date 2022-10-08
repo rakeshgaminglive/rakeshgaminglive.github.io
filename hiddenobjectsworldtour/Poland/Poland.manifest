@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3368406849
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: poland1
+      Dependencies: {}
+    Info_1:
+      Name: poland2
+      Dependencies: {}
+    Info_2:
+      Name: poland3
+      Dependencies: {}
+    Info_3:
+      Name: poland4
+      Dependencies: {}
+    Info_4:
+      Name: poland5
+      Dependencies: {}
+    Info_5:
+      Name: poland6
+      Dependencies: {}
+    Info_6:
+      Name: poland7
+      Dependencies: {}

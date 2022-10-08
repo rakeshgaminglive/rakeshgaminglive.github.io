@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3397957566
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hungary1
+      Dependencies: {}
+    Info_1:
+      Name: hungary2
+      Dependencies: {}
+    Info_2:
+      Name: hungary3
+      Dependencies: {}
+    Info_3:
+      Name: hungary4
+      Dependencies: {}

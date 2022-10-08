@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1576523860
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: slovakia1
+      Dependencies: {}
+    Info_1:
+      Name: slovakia2
+      Dependencies: {}
+    Info_2:
+      Name: slovakia3
+      Dependencies: {}
+    Info_3:
+      Name: slovakia4
+      Dependencies: {}
+    Info_4:
+      Name: slovakia5
+      Dependencies: {}
